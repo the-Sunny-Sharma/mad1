@@ -6,3 +6,8 @@ compatible with existing code. It is utilized by companies and developers around
 the world, due to its user-friendly interface and fairly simple, yet to-the-point 
 commands.  
 Conclusion: Hence, we have successfully created a Flutter application to display simple widgets.
+
+
+===========
+flutter pub get
+flutter run
